@@ -1,3 +1,5 @@
+/** FEEDBACK: Great job getting all test cases to pass!!! Your code is super clean and you are killing it! */
+
 const clickCounterHandler = () => {
   const button = document.getElementById("click-button");
   button.dataset.clicks = Number(button.dataset.clicks) + 1;
